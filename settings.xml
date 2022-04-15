@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<offlineSchedule>
+		<startDate>2022-04-10T02:30:00</startDate>
+		<offlinemessage_en>Dear Client, Scheduled Maintenance: Online and Mobile Banking services will be unavailable from 2:30 AM to 4:30 AM on 10-Apr-2022 due to system upgrades. We apologise for any inconvenience caused. Please call 111 002 002  for general services.
+</offlinemessage_en>
+		<endDate>2022-04-28T03:30:00</endDate>
+	</offlineSchedule>
+	<versions>1.02</versions>
+	<versionsmessage_en>Test for version control</versionsmessage_en>
+	<enableRumData>true</enableRumData>
+	<enableRetry>true</enableRetry>
+  	<ibankurl>https://www.online-banking.standardchartered.com/Init/IBank?ser=100&amp;act=UIMainFrame.jsp&amp;isSecured=false&amp;countryCode=PK&amp;cntry=PK&amp;ccode=PK</ibankurl>
+	<wrapper>
+		<iphone>
+			<allowedVersions>["2.1.3"]</allowedVersions>
+			<updateURL>https://itunes.apple.com/us/app/breeze-pakistan/id645859445?mt=8</updateURL>
+			<versionsmessage_en>SC Mobile Pakistan just got even better. Upgrade to the latest version now!</versionsmessage_en>
+		</iphone>
+		<android>
+			<allowedVersions>["1.4.1"]</allowedVersions>
+			<updateURL>https://play.google.com/store/apps/details?id=com.scb.pk.bmw</updateURL>
+			<huaweiUpdateURL>https://appgallery.huawei.com/#/app/C102128097</huaweiUpdateURL>
+			<versionsmessage_en>SC Mobile Pakistan just got even better. Upgrade to the latest version now!</versionsmessage_en>
+		</android>
+	</wrapper>
+	<backgrounds>
+		<background>
+			<year>2021</year>
+			<startDate>08-13</startDate>
+			<endDate>08-15</endDate>
+			<name>Ind</name>                
+			<backgroundimage>https://www.sc.com/breezeconfigs/mobileweb/pk/wallpapers/IMG-20210813-WA0016.jpg</backgroundimage>
+		</background>
+	</backgrounds>
+</settings>
