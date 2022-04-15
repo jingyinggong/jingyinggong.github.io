@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <message>
+    	<startDate>2022-04-08T11:00:00</startDate>
+        <version>1.0</version> 
+		<text_message_en>TESTING ONLY, Dear TESTER, Online and Mobile banking services will be unavailable from 02:30 AM to 04:30 AM on 10th Apr 2022 due to system upgrades. Inconvenience is regretted.
+		
+ </text_message_en>
+		<endDate>2022-04-29T04:40:00</endDate>
+	</message>
+</messages>
