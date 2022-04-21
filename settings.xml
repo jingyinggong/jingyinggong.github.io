@@ -4,7 +4,7 @@
 		<startDate>2022-04-10T02:30:00</startDate>
 		<offlinemessage_en>Tester Dear Client, Scheduled Maintenance: Online and Mobile Banking services will be unavailable from 2:30 AM to 4:30 AM on 10-Apr-2022 due to system upgrades. We apologise for any inconvenience caused. Please call 111 002 002  for general services.
 </offlinemessage_en>
-		<endDate>2022-04-28T03:30:00</endDate>
+		<endDate>2022-04-20T03:30:00</endDate>
 	</offlineSchedule>
 	<versions>1.02</versions>
 	<versionsmessage_en>Test for version control</versionsmessage_en>
